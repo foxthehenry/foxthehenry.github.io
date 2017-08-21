@@ -1364,7 +1364,7 @@ KeyboardInputManager.prototype.on = function(t, e) {
 };
 ih5game.setShare({
 	
-    desc: "Áµ°®ÒªÓĞÄÍĞÄÅ¶£¡"
+    desc: "æ‹çˆ±è¦æœ‰è€å¿ƒå“¦ï¼"
 });
 var _nowbest = 0;
 HTMLActuator.prototype.updateScore = function(t) {
